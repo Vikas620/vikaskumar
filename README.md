@@ -1,39 +1,154 @@
-<h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<h3 align="center">Aspiring Data Analyst|Python|SQL|Power BI|Excel</h3>
+Act as an expert GitHub Profile README designer, GitHub API specialist, and professional UI/UX developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas620&label=Profile%20views&color=0e75b6&style=flat" alt="vikas620" /> </p>
+I want you to completely redesign my basic GitHub Profile README.md into a premium, modern, visually attractive, professional, and fully responsive GitHub profile.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas620" alt="vikas620" /></a> </p>
+**My Information:**
+- Name: Vikas Kumar
+- GitHub Username: vikaskumardev
+- Role: Aspiring Data Analyst | Python | SQL | Power BI | Excel
+- Education: B.Tech Computer Science Engineering
+- Career Goal: Data Analyst
+- Email: vk4707987@gmail.com
+- Portfolio: https://lively-salamander-87a1b4.netlify.app
+- GitHub: https://github.com/vikaskumardev
+- LinkedIn: https://www.linkedin.com/in/vikas-kumar-3b9ba437b/
 
-- 🔭 I’m currently working on [Data Analytics Projects](https://github.com/Vikas620)
+**1. Premium Header Section**
+- Create a beautiful animated welcome banner.
+- Add "Hi 👋, I'm Vikas Kumar".
+- Add an animated typing effect using a reliable SVG typing service.
+- Display "Aspiring Data Analyst | Python | SQL | Power BI | Excel".
+- Include a profile visitor counter.
+- Use a consistent modern dark theme with blue and purple accents.
 
-- 🌱 I’m currently learning **JobPulse AI**
+**2. Professional About Me**
+- Write an attractive and recruiter-friendly introduction.
+- Highlight my passion for Data Analytics, Business Intelligence, and problem-solving.
+- Mention my interest in transforming raw data into meaningful insights.
+- Include what I am currently learning, working on, and open to collaborating on.
 
-- 👯 I’m looking to collaborate on [Loan Approval Prediction](https://github.com/Vikas620)
+**3. GitHub Analytics Dashboard**
 
-- 🤝 I’m looking for help with [JobPulse AI](https://github.com/Vikas620)
+Create an advanced GitHub analytics section displaying:
+- Total Public Repositories
+- Total Stars Earned
+- Total Forks
+- Total Commits
+- Total Pull Requests
+- Total Issues
+- GitHub Followers
+- GitHub Profile Views
+- GitHub Contribution Streak
+- Longest Contribution Streak
+- Most Used Programming Languages
 
-- 👨‍💻 All of my projects are available at [https://lively-salamander-87a1b4.netlify.app](https://lively-salamander-87a1b4.netlify.app)
+Use live GitHub data wherever technically possible. Do not display fake or hardcoded statistics. If a metric cannot be reliably retrieved, provide a working GitHub Actions solution or omit that metric.
 
-- 💬 Ask me about **Data Analyst**
+**4. GitHub Contribution Activity**
+- Add a beautiful GitHub Contribution Activity Graph.
+- Include a GitHub commit activity visualization.
+- Add a GitHub contribution streak card.
+- Display top programming languages.
+- Make all graphs visually consistent.
+- Use reliable and maintained providers.
+- Provide graceful fallbacks for unavailable images.
 
-- 📫 How to reach me **VK4707987@GMAIL.COM**
+**5. GitHub Achievements**
+- Add GitHub Profile Trophies.
+- Display achievements using reliable services.
+- Avoid outdated, broken, or discontinued endpoints.
 
-- ⚡ Fun fact **I Love to play with data**
+**6. Technical Skills**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikaskumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikaskumar" height="30" width="40" /></a>
-<a href="https://fb.com/vikaskushwaha87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikaskushwaha87" height="30" width="40" /></a>
-<a href="https://instagram.com/vikaskushwaha87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikaskushwaha87" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vikaskushwaha87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vikaskushwaha87" height="30" width="40" /></a>
-</p>
+Organize my skills into professional categories:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Programming:
+Python, SQL, JavaScript, HTML, CSS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas620&show_icons=true&locale=en&layout=compact" alt="vikas620" /></p>
+Data Analytics:
+Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas620&show_icons=true&locale=en" alt="vikas620" /></p>
+Machine Learning:
+Scikit-learn, Data Preprocessing, Exploratory Data Analysis, Random Forest
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas620&" alt="vikas620" /></p>
+Databases:
+MySQL
+
+Development Tools:
+Git, GitHub, VS Code, Jupyter Notebook
+
+Use beautiful shields.io badges or reliable technology icons with consistent sizing and spacing.
+
+**7. Featured Projects**
+
+Create an attractive Featured Projects section showcasing:
+
+1. Loan Approval Prediction System
+   - Python, Pandas, NumPy, Scikit-learn, Random Forest
+   - Machine learning-based loan approval prediction
+
+2. Farm-to-Market Platform
+   - Python, MySQL, HTML, CSS, JavaScript
+   - Platform connecting farmers with buyers
+
+3. Data Analysis and Visualization
+   - Python, Excel, Pandas, Matplotlib, Seaborn, Power BI
+   - Data cleaning, analysis, and dashboard visualization
+
+4. SQL Data Analysis
+   - SQL, MySQL
+   - Data querying and analytical reporting
+
+5. JobPulse AI
+   - Include only verified information about the project.
+
+Use GitHub repository cards where valid repository links exist. Do not invent repository URLs. Otherwise, use a beautifully formatted Markdown table with project descriptions and technology stacks.
+
+**8. Professional Connect Section**
+- LinkedIn
+- GitHub
+- Portfolio Website
+- Email
+- Include modern clickable social badges.
+
+**9. Additional Premium Features**
+- Animated section dividers where supported
+- Clean visual hierarchy
+- Attractive dark-theme styling
+- Consistent spacing and alignment
+- GitHub snake contribution animation using GitHub Actions
+- Dynamic GitHub metrics where practical
+- A professional footer with a short motivational quote
+- Mobile-friendly Markdown and HTML layout
+
+**10. Reliability and Quality Requirements**
+- All GitHub analytics must use the correct username: vikaskumardev.
+- Do not mix different GitHub usernames.
+- Verify image URLs and supported API parameters.
+- Avoid broken image links.
+- Avoid excessive animations that slow down the README.
+- Ensure compatibility with GitHub-flavored Markdown.
+- Do not use unsupported JavaScript, CSS, or HTML.
+- Support both GitHub light and dark modes where possible.
+- Use trusted and actively maintained services.
+- Do not fabricate GitHub activity or contribution counts.
+- Include GitHub Actions workflow YAML files if required for advanced features.
+- Explain any necessary GitHub Actions permissions and configuration.
+- Ensure the README looks polished on desktop and mobile.
+
+**Final Deliverables:**
+
+1. Complete production-ready README.md source code.
+2. Any required GitHub Actions workflow files.
+3. Correct folder structure.
+4. Clear instructions for adding everything to my GitHub profile.
+5. Instructions for customizing featured repositories.
+6. A final quality checklist to ensure everything works.
+
+**Design Goal:**
+
+Create a GitHub profile that looks like a premium developer and data analyst portfolio. It should impress recruiters, hiring managers, and other developers.
+
+The result should be modern, professional, elegant, informative, and visually balanced — not cluttered.
+
+**Important:** Generate the complete code, not just explanations or examples. Make the final README ready to copy and paste directly into GitHub.
